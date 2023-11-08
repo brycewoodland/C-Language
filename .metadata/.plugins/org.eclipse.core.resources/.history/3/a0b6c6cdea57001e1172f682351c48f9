@@ -1,0 +1,30 @@
+/*
+ ============================================================================
+ Name        : arrayWith10Values.c
+ Author      : Bryce Woodland
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	// Declare an array to hold 10 floating point numbers
+	float myNumbers[10];
+
+	float min = 0;
+	float max = 0;
+	float sum = 0;
+
+	// Have user input 10 values using loop
+	for (float i = 0; i < 10; i++);
+	{
+		printf("Enter a number: ");
+		scanf("%f", &myNumbers[i]);
+	}
+
+	return EXIT_SUCCESS;
+}

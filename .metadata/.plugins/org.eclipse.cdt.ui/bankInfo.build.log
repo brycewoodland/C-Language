@@ -1,0 +1,7 @@
+13:07:35 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+
+13:07:35 Build Finished. 0 errors, 0 warnings. (took 520ms)
+

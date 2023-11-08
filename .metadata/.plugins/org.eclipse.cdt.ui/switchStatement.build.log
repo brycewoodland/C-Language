@@ -1,0 +1,10 @@
+12:49:48 **** Incremental Build of configuration Debug for project switchStatement ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Task2.o" "..\\src\\Task2.c" 
+..\src\Task2.c: In function 'main':
+..\src\Task2.c:53:2: error: expected declaration or statement at end of input
+  }
+  ^
+
+12:49:49 Build Failed. 1 errors, 0 warnings. (took 190ms)
+

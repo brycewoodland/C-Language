@@ -1,0 +1,7 @@
+10:48:30 **** Rebuild of configuration Debug for project bankAccountInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankAccountInfo.o" "..\\src\\bankAccountInfo.c" 
+gcc -o bankAccountInfo.exe "src\\bankAccountInfo.o" 
+
+10:48:30 Build Finished. 0 errors, 0 warnings. (took 534ms)
+

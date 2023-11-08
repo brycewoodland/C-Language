@@ -1,0 +1,51 @@
+/*
+ ============================================================================
+ Name        : switchStatements.c
+ Author      : Bryce Woodland
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i = -1;
+
+	while (i != 0)
+	{
+		printf("\nMenu options\n");
+		printf("1. Milk\n");
+		printf("2. Cheese\n");
+		printf("3. Eggs\n");
+		printf("4. Bread\n");
+		printf("5. Oreos\n");
+		printf("Enter your choice: ");
+		scanf("%d", &i);
+
+		switch (i)
+		{
+		case 1:
+			printf("The price is $2.96\n");
+			break;
+		case 2:
+			printf("The price is $3.98\n");
+			break;
+		case 3:
+			printf("The price is $4.25\n");
+			break;
+		case 4:
+			printf("The price is $1.32\n");
+			break;
+		case 5:
+			printf("The price is $5.98\n");
+			break;
+		default:
+			printf("That wasn't an option.\n");
+			break;
+		}
+	}
+	return EXIT_SUCCESS;
+}

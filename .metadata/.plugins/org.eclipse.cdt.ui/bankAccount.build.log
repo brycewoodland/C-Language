@@ -1,0 +1,10 @@
+19:11:31 **** Incremental Build of configuration Debug for project bankAccount ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankAccount.o" "..\\src\\bankAccount.c" 
+..\src\bankAccount.c: In function 'main':
+..\src\bankAccount.c:77:5: error: a label can only be part of a statement and a declaration is not a statement
+     struct account *new_account = malloc(sizeof(struct account));
+     ^~~~~~
+
+19:11:31 Build Failed. 1 errors, 0 warnings. (took 184ms)
+

@@ -1,0 +1,535 @@
+21:07:09 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+21:10:40 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+21:13:17 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:73:4: error: a label can only be part of a statement and a declaration is not a statement
+    struct account *tail = NULL;
+    ^~~~~~
+..\src\bankInfo.c:74:4: error: expected expression before 'struct'
+    struct account *new_account = NULL;
+    ^~~~~~
+..\src\bankInfo.c:75:4: error: 'new_account' undeclared (first use in this function)
+    new_account = malloc(sizeof(struct account));
+    ^~~~~~~~~~~
+..\src\bankInfo.c:75:4: note: each undeclared identifier is reported only once for each function it appears in
+21:13:22 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:73:4: error: a label can only be part of a statement and a declaration is not a statement
+    struct account *tail = NULL;
+    ^~~~~~
+..\src\bankInfo.c:74:4: error: expected expression before 'struct'
+    struct account *new_account = NULL;
+    ^~~~~~
+..\src\bankInfo.c:75:4: error: 'new_account' undeclared (first use in this function)
+    new_account = malloc(sizeof(struct account));
+    ^~~~~~~~~~~
+..\src\bankInfo.c:75:4: note: each undeclared identifier is reported only once for each function it appears in
+21:14:07 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+21:16:00 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+21:17:11 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+21:20:05 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+21:22:06 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file bankInfo.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+21:22:11 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+21:24:20 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+12:10:23 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:112:5: error: a label can only be part of a statement and a declaration is not a statement
+     int account_number;
+     ^~~
+12:10:43 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:112:5: error: a label can only be part of a statement and a declaration is not a statement
+     int account_number = 0;
+     ^~~
+12:10:50 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:112:5: error: a label can only be part of a statement and a declaration is not a statement
+     int account_number = 0;
+     ^~~
+12:12:52 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+12:14:36 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+12:27:40 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:141:21: error: redefinition of 'found_account'
+     struct account *found_account = find_account(head, account_number);
+                     ^~~~~~~~~~~~~
+..\src\bankInfo.c:126:21: note: previous definition of 'found_account' was here
+     struct account *found_account = find_account(head, account_number);
+                     ^~~~~~~~~~~~~
+..\src\bankInfo.c:148:39: error: void value not ignored as it ought to be
+      struct account *change_account = account_information(head);
+                                       ^~~~~~~~~~~~~~~~~~~
+..\src\bankInfo.c:148:22: warning: unused variable 'change_account' [-Wunused-variable]
+      struct account *change_account = account_information(head);
+                      ^~~~~~~~~~~~~~
+12:28:34 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+..\src\bankInfo.c: In function 'main':
+..\src\bankInfo.c:142:39: error: void value not ignored as it ought to be
+      struct account *change_account = account_information(head);
+                                       ^~~~~~~~~~~~~~~~~~~
+..\src\bankInfo.c:142:22: warning: unused variable 'change_account' [-Wunused-variable]
+      struct account *change_account = account_information(head);
+                      ^~~~~~~~~~~~~~
+12:30:55 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+14:44:25 **** Rebuild of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+19:39:32 **** Rebuild of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'determineWinner':
+..\src\rockPaperAndScissors.c:56:5: warning: 'main' is normally a non-static function [-Wmain]
+ int main(void){
+     ^~~~
+..\src\rockPaperAndScissors.c:60:1: error: expected declaration or statement at end of input
+ }
+ ^
+At top level:
+..\src\rockPaperAndScissors.c:56:5: warning: 'main' defined but not used [-Wunused-function]
+ int main(void){
+     ^~~~
+19:51:18 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+20:17:25 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+20:18:19 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:81:2: error: too few arguments to function 'determine_winner'
+  determine_winner();
+  ^~~~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:52:6: note: declared here
+ void determine_winner(int player_choice, int computer_choice )
+      ^~~~~~~~~~~~~~~~
+20:19:46 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'determine_winner':
+..\src\rockPaperAndScissors.c:74:9: warning: return makes integer from pointer without a cast [-Wint-conversion]
+  return winner;
+         ^~~~~~
+..\src\rockPaperAndScissors.c:74:9: warning: function returns address of local variable [-Wreturn-local-addr]
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:84:2: error: too few arguments to function 'determine_winner'
+  determine_winner();
+  ^~~~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:52:6: note: declared here
+ char determine_winner(int player_choice, int computer_choice )
+      ^~~~~~~~~~~~~~~~
+20:21:23 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:81:34: error: 'computer_choice' undeclared (first use in this function)
+  determine_winner(player_choice, computer_choice);
+                                  ^~~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:81:34: note: each undeclared identifier is reported only once for each function it appears in
+..\src\rockPaperAndScissors.c:80:6: warning: unused variable 'computer_coice' [-Wunused-variable]
+  int computer_coice = get_computer_choice();
+      ^~~~~~~~~~~~~~
+20:21:33 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+20:24:02 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_computer_choice':
+..\src\rockPaperAndScissors.c:46:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d", &computer_choice);
+           ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+20:24:16 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+20:25:44 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_computer_choice':
+..\src\rockPaperAndScissors.c:46:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d", &computer_choice);
+           ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+20:29:04 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+20:30:30 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:00:41 **** Rebuild of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+13:03:01 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+Info: Nothing to build for bankInfo
+13:07:35 **** Incremental Build of configuration Debug for project bankInfo ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\bankInfo.o" "..\\src\\bankInfo.c" 
+gcc -o bankInfo.exe "src\\bankInfo.o" 
+13:12:44 **** Rebuild of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_player_choice':
+..\src\rockPaperAndScissors.c:53:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+13:13:06 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_player_choice':
+..\src\rockPaperAndScissors.c:104:5: warning: 'main' is normally a non-static function [-Wmain]
+ int main(void)
+     ^~~~
+..\src\rockPaperAndScissors.c:114:1: error: expected declaration or statement at end of input
+ }
+ ^
+..\src\rockPaperAndScissors.c:114:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+At top level:
+..\src\rockPaperAndScissors.c:104:5: warning: 'main' defined but not used [-Wunused-function]
+ int main(void)
+     ^~~~
+13:13:40 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:16:03 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:21:14 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_player_choice':
+..\src\rockPaperAndScissors.c:49:4: warning: implicit declaration of function 'Printf' [-Wimplicit-function-declaration]
+    Printf("Sorry that wasn't a valid option.\n");
+    ^~~~~~
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+src\rockPaperAndScissors.o: In function `get_player_choice':
+C:\Users\bb_br\OneDrive\Desktop\Python\C Language\rockPaperAndScissors\Debug/../src/rockPaperAndScissors.c:49: undefined reference to `Printf'
+collect2.exe: error: ld returned 1 exit status
+13:21:30 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:25:18 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+Info: Nothing to build for rockPaperAndScissors
+13:27:23 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:29:58 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+13:32:30 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+13:33:45 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:108:6: error: redeclaration of 'player_choice' with no linkage
+  int player_choice = get_player_choice();
+      ^~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:105:6: note: previous declaration of 'player_choice' was here
+  int player_choice;
+      ^~~~~~~~~~~~~
+15:43:58 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:130:29: error: 'computer_choide' undeclared (first use in this function)
+      (player_choice == 3 && computer_choide == 2)
+                             ^~~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:130:29: note: each undeclared identifier is reported only once for each function it appears in
+..\src\rockPaperAndScissors.c:131:3: error: expected ')' before '{' token
+   {
+   ^
+..\src\rockPaperAndScissors.c:134:2: error: expected expression before '}' token
+  }
+  ^
+..\src\rockPaperAndScissors.c:107:6: warning: unused variable 'rounds_played' [-Wunused-variable]
+  int rounds_played = 0;
+      ^~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:106:6: warning: unused variable 'computer_score' [-Wunused-variable]
+  int computer_score = 0;
+      ^~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:105:6: warning: unused variable 'player_score' [-Wunused-variable]
+  int player_score = 0;
+      ^~~~~~~~~~~~
+15:44:22 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:131:3: error: expected ')' before '{' token
+   {
+   ^
+..\src\rockPaperAndScissors.c:134:2: error: expected expression before '}' token
+  }
+  ^
+..\src\rockPaperAndScissors.c:107:6: warning: unused variable 'rounds_played' [-Wunused-variable]
+  int rounds_played = 0;
+      ^~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:106:6: warning: unused variable 'computer_score' [-Wunused-variable]
+  int computer_score = 0;
+      ^~~~~~~~~~~~~~
+..\src\rockPaperAndScissors.c:105:6: warning: unused variable 'player_score' [-Wunused-variable]
+  int player_score = 0;
+      ^~~~~~~~~~~~
+15:45:24 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:107:6: warning: unused variable 'rounds_played' [-Wunused-variable]
+  int rounds_played = 0;
+      ^~~~~~~~~~~~~
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+15:47:41 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:141:26: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Player Score: %d\n", &player_score);
+                          ^
+..\src\rockPaperAndScissors.c:142:28: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Computer Score: %d\n", &computer_score);
+                            ^
+..\src\rockPaperAndScissors.c:143:27: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Rounds Played: %d\n", &rounds_played);
+                           ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+15:49:40 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_player_choice':
+..\src\rockPaperAndScissors.c:30:2: error: too few arguments to function 'printf'
+  printf();
+  ^~~~~~
+In file included from ..\src\rockPaperAndScissors.c:11:0:
+c:\mingw\include\stdio.h:454:38: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:142:3: error: too few arguments to function 'printf'
+   printf();
+   ^~~~~~
+In file included from ..\src\rockPaperAndScissors.c:11:0:
+c:\mingw\include\stdio.h:454:38: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+..\src\rockPaperAndScissors.c:143:26: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Player Score: %d\n", &player_score);
+                          ^
+..\src\rockPaperAndScissors.c:144:28: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Computer Score: %d\n", &computer_score);
+                            ^
+..\src\rockPaperAndScissors.c:145:27: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Rounds Played: %d\n", &rounds_played);
+                           ^
+..\src\rockPaperAndScissors.c:146:3: error: too few arguments to function 'printf'
+   printf();
+   ^~~~~~
+In file included from ..\src\rockPaperAndScissors.c:11:0:
+c:\mingw\include\stdio.h:454:38: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  int printf (const char *, ...);
+                                      ^~~~~~
+15:50:15 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'main':
+..\src\rockPaperAndScissors.c:143:26: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Player Score: %d\n", &player_score);
+                          ^
+..\src\rockPaperAndScissors.c:144:28: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Computer Score: %d\n", &computer_score);
+                            ^
+..\src\rockPaperAndScissors.c:145:27: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("Rounds Played: %d\n", &rounds_played);
+                           ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file rockPaperAndScissors.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:52:04 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file rockPaperAndScissors.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:53:06 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file rockPaperAndScissors.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:53:32 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+15:55:05 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+15:57:10 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+15:59:05 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file rockPaperAndScissors.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+15:59:15 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+16:00:48 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+16:02:53 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+16:04:55 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+09:54:03 **** Rebuild of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+09:59:00 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+..\src\rockPaperAndScissors.c: In function 'get_player_choice':
+..\src\rockPaperAndScissors.c:62:2: warning: control reaches end of non-void function [-Wreturn-type]
+  }
+  ^
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+09:59:23 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+Info: Nothing to build for rockPaperAndScissors
+10:04:48 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+10:06:56 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+10:13:53 **** Incremental Build of configuration Debug for project rockPaperAndScissors ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\rockPaperAndScissors.o" "..\\src\\rockPaperAndScissors.c" 
+gcc -o rockPaperAndScissors.exe "src\\rockPaperAndScissors.o" 
+Info: Nothing to build for rockPaperAndScissors
+Info: Nothing to build for rockPaperAndScissors

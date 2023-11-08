@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : minimumFunction.c
+ Author      : Bryce Woodland
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int minimum(int x, int y)
+{
+	if (x > y)
+	{
+		return y;
+	}
+	else
+	{
+		return x;
+	}
+}
+int main(void) {
+	int num1 = 0;
+	int num2 = 0;
+
+	printf("Enter the first number: ");
+	scanf("%d", &num1);
+
+	printf("Enter the second number: ");
+	scanf("%d", &num2);
+
+	int min = minimum(num1, num2);
+
+	printf("The minimum is: %d\n", min);
+
+	return EXIT_SUCCESS;
+}

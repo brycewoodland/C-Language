@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : arrayWith10Values.c
+ Author      : Bryce Woodland
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	float myNumbers[10];
+
+	for (float i = 0; i < 10; i++);
+	{
+		printf("Enter a number: ");
+		scanf("%f", &myNumbers[i]);
+	}
+
+	return EXIT_SUCCESS;
+}

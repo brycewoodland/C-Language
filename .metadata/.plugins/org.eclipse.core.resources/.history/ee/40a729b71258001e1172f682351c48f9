@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : minimumFunction.c
+ Author      : Bryce Woodland
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int num1 = 0;
+	int num2 = 0;
+
+	printf("Enter a number: ");
+	scanf("%d", &num1);
+	scanf("%d", &num2);
+
+	int
+	return EXIT_SUCCESS;
+}

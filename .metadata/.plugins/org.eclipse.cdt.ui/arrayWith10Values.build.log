@@ -1,0 +1,7 @@
+13:26:36 **** Incremental Build of configuration Debug for project arrayWith10Values ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\arrayWith10Values.o" "..\\src\\arrayWith10Values.c" 
+gcc -o arrayWith10Values.exe "src\\arrayWith10Values.o" 
+
+13:26:37 Build Finished. 0 errors, 0 warnings. (took 456ms)
+
